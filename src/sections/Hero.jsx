@@ -53,10 +53,11 @@ const Hero = () => {
 
                         <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:justify-center lg:justify-start">
 
-                            <a href="#projects">
-  <Button>
-    View Projects
-  </Button>
+                           <a
+  href="#projects"
+  className="inline-flex rounded-xl bg-violet-600 px-6 py-3 font-semibold text-white transition hover:bg-violet-500"
+>
+  View Projects
 </a>
 
                                 
