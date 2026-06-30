@@ -55,7 +55,7 @@ const Hero = () => {
 
                            <a
   href="#projects"
-  className="text-center inline-flex rounded-xl bg-violet-600 px-6 py-3 font-semibold text-white transition hover:bg-violet-500"
+  className="sm:text-center inline-flex rounded-xl bg-violet-600 px-6 py-3 font-semibold text-white transition hover:bg-violet-500"
 >
   View Projects
 </a>
