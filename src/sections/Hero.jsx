@@ -53,7 +53,7 @@ const Hero = () => {
 
                         <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:justify-center lg:justify-start">
 
-                            <Button>
+                            <Button  href="#projects>
                                 View Projects
                             </Button>
 {/* <a
