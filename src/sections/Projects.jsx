@@ -5,12 +5,12 @@ import Reveal from "../components/Reveal";
 
 const Projects = () => {
   return (
-    <section id="projects" className="py-20 md:py-28">
+    <section id="projects" className="py-4 md:py-20">
       <Reveal>
         <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8">
           <SectionTitle
             subtitle="My Work"
-            title="Featured Projects"
+            title="Projects"
           />
 
           <div className="grid grid-cols-1 gap-8 md:grid-cols-2">

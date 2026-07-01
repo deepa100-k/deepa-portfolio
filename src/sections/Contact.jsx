@@ -95,7 +95,7 @@ const Contact = () => {
                 {/* Location */}
                 <div className="flex items-center gap-4">
                   <FaMapMarkerAlt className="text-xl text-violet-400" />
-                  <span>Delhi, India</span>
+                  <span>New Delhi, India</span>
                 </div>
 
                 {/* GitHub */}

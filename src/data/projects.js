@@ -9,7 +9,7 @@ export const projects = [
     image: kanchanHome,
 
     description:
-      "A modern luxury jewellery e-commerce website built using React, Vite and Tailwind CSS.",
+      "A modern luxury jewellery e-commerce website built with React, Vite, and Tailwind CSS, featuring a clean and elegant design, responsive layouts, intuitive navigation, wishlist, shopping cart, and a seamless shopping experience.",
 
     longDescription:
       "Kanchan Luxe is a responsive jewellery shopping website featuring beautiful UI, wishlist, cart functionality, product details and checkout interface.",
