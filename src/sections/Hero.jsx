@@ -82,7 +82,7 @@ Passionate Frontend Developer dedicated to building modern, responsive, and user
             <div className="mt-8 grid grid-cols-3 gap-3 border-t border-slate-800 pt-6 lg:mt-12 lg:gap-4 lg:pt-8">
               <div>
                 <h3 className="text-xl font-bold text-violet-400 sm:text-2xl">
-                  10+
+                  5+
                 </h3>
                 <p className="mt-1 text-xs text-slate-400 sm:text-sm">
                   Projects
