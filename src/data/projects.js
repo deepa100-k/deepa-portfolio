@@ -66,7 +66,7 @@ export const projects = [
       "Download App",
     ],
 
-    live: "#",
+    live: "https://freshbite-nu.vercel.app",
     github: "https://github.com/deepa100-k/freshbite",
   },
 
@@ -100,7 +100,7 @@ export const projects = [
       "Weather API Integration",
     ],
 
-    live: "#",
+    live: "https://weather-wheat-mu-93.vercel.app",
     github: "https://github.com/deepa100-k/weather",
   },
 
@@ -134,7 +134,7 @@ export const projects = [
       "Modern UI",
     ],
 
-    live: "#",
+    live: "https://ai-powered-resume-mu.vercel.app",
     github: "https://github.com/deepa100-k/AI-powered-resume-",
   },
 ];
