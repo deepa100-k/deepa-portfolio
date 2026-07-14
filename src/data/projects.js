@@ -1,5 +1,5 @@
 import kanchanHome from "../assets/projects/kanchan-luxe-home.png";
-import freshbiteHome from "../assets/projects/freshbite-home.png ";
+import freshbiteHome from "../assets/projects/freshbite-home.png";
 import weatherHome from "../assets/projects/weather-home.png";
 import aiResumeHome from "../assets/projects/ai-resume-home.png";
 
