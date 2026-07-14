@@ -12,10 +12,10 @@ export const projects = [
     image: kanchanHome,
 
     description:
-      "A modern luxury jewellery e-commerce website built with React, Vite, and Tailwind CSS, featuring a clean and elegant design, responsive layouts, intuitive navigation, wishlist, shopping cart, and a seamless shopping experience.",
+      "A modern luxury jewellery e-commerce website built with React, Vite and Tailwind CSS featuring a premium shopping experience.",
 
     longDescription:
-      "Kanchan Luxe is a responsive jewellery shopping website featuring beautiful UI, wishlist, cart functionality, product details and checkout interface.",
+      "Kanchan Luxe is a fully responsive jewellery e-commerce website with wishlist, shopping cart, product details, category filtering and a beautiful modern UI.",
 
     techStack: [
       "React",
@@ -28,7 +28,7 @@ export const projects = [
       "Responsive Design",
       "Wishlist",
       "Shopping Cart",
-      "Product Details Page",
+      "Product Details",
       "Checkout Page",
       "Modern UI",
     ],
@@ -45,10 +45,10 @@ export const projects = [
     image: freshbiteHome,
 
     description:
-      "A modern and responsive food delivery landing page with attractive UI, smooth animations, and mobile-friendly design.",
+      "A modern responsive food delivery website with attractive animations and premium user interface.",
 
     longDescription:
-      "FreshBite is a premium food website developed using React and Tailwind CSS. It features a beautiful hero section, menu, services, testimonials, download app section, and responsive layouts.",
+      "FreshBite is a responsive food website developed using React, Vite and Tailwind CSS. It includes Hero, Menu, Why Choose Us, Testimonials, Download App and Footer sections with smooth animations.",
 
     techStack: [
       "React",
@@ -59,14 +59,14 @@ export const projects = [
 
     features: [
       "Responsive Design",
-      "Modern Landing Page",
-      "Animated UI",
       "Food Menu",
+      "Modern Landing Page",
+      "Smooth Animations",
       "Testimonials",
-      "Download App Section",
+      "Download App",
     ],
 
-    live: "https://YOUR-FRESHBITE-LIVE-LINK.vercel.app",
+    live: "#",
     github: "https://github.com/deepa100-k/freshbite",
   },
 
@@ -74,17 +74,18 @@ export const projects = [
     id: 3,
     slug: "weather-app",
     title: "Weather App",
-    category: "Web Application",
+    category: "Weather Application",
     image: weatherHome,
 
     description:
-      "A responsive weather application that provides real-time weather information, hourly forecast, and current location support.",
+      "A responsive weather application with current weather, hourly forecast and location search.",
 
     longDescription:
-      "Built with React, Tailwind CSS, and Weather API. Users can search any city worldwide, view current weather, hourly forecast, and 5-day forecast with a beautiful responsive interface.",
+      "Weather App is built using React, Tailwind CSS and Weather API. Users can search any city worldwide, check current weather, hourly forecast and future forecast with a clean UI.",
 
     techStack: [
       "React",
+      "JavaScript",
       "Tailwind CSS",
       "Weather API",
       "Vite",
@@ -95,11 +96,11 @@ export const projects = [
       "Current Location",
       "Hourly Forecast",
       "5-Day Forecast",
-      "Responsive Design",
-      "Dynamic Weather Icons",
+      "Responsive UI",
+      "Weather API Integration",
     ],
 
-    live: "https://YOUR-WEATHER-LIVE-LINK.vercel.app",
+    live: "#",
     github: "https://github.com/deepa100-k/weather",
   },
 
@@ -107,32 +108,33 @@ export const projects = [
     id: 4,
     slug: "ai-powered-resume",
     title: "AI Powered Resume Builder",
-    category: "AI Web App",
+    category: "AI Application",
     image: aiResumeHome,
 
     description:
-      "An AI-powered resume builder that helps users create professional resumes quickly with a modern and intuitive interface.",
+      "An AI-powered resume builder that helps users create professional resumes with a modern interface.",
 
     longDescription:
-      "This application allows users to generate professional resumes using AI assistance. It includes editable sections, modern templates, responsive design, and an easy-to-use interface.",
+      "AI Powered Resume Builder enables users to generate, edit and preview professional resumes using AI assistance with a responsive and user-friendly design.",
 
     techStack: [
       "React",
-      "Tailwind CSS",
       "JavaScript",
+      "Tailwind CSS",
       "AI",
+      "Vite",
     ],
 
     features: [
       "AI Resume Generation",
-      "Editable Resume",
+      "Resume Preview",
+      "Editable Sections",
       "Professional Templates",
       "Responsive Design",
       "Modern UI",
-      "Easy Navigation",
     ],
 
-    live: "https://YOUR-AI-RESUME-LIVE-LINK.vercel.app",
+    live: "#",
     github: "https://github.com/deepa100-k/AI-powered-resume-",
   },
 ];
