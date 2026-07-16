@@ -2,6 +2,7 @@ import kanchanHome from "../assets/projects/kanchan-luxe-home.png";
 import freshbiteHome from "../assets/projects/freshbite-home.png";
 import weatherHome from "../assets/projects/weather-home.png";
 import aiResumeHome from "../assets/projects/ai-resume-home.png";
+import mernNotesHome from "../assets/projects/mern-notes-home.png";
 
 export const projects = [
   {
@@ -137,4 +138,42 @@ export const projects = [
     live: "https://ai-powered-resume-mu.vercel.app",
     github: "https://github.com/deepa100-k/AI-powered-resume-",
   },
+  {
+  id: 5,
+  slug: "mern-notes-app",
+  title: "MERN Notes App",
+  category: "Full Stack Application",
+  image: mernNotesHome,
+
+  description:
+    "A full-stack MERN Notes App with CRUD operations, search functionality, loading states, toast notifications and responsive UI.",
+
+  longDescription:
+    "MERN Notes App is a complete full-stack application built using MongoDB, Express.js, React and Node.js. Users can create, edit, search and delete notes with a modern responsive interface. The project includes REST APIs, MongoDB Atlas integration, loading indicators, delete confirmation modal and toast notifications.",
+
+  techStack: [
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Axios",
+    "Tailwind CSS",
+  ],
+
+  features: [
+    "Create Notes",
+    "Edit Notes",
+    "Delete Notes",
+    "Search Notes",
+    "REST API",
+    "MongoDB Database",
+    "Responsive Design",
+    "Toast Notifications",
+    "Loading Spinner",
+    "Delete Confirmation Modal",
+  ],
+
+  live: "https://YOUR-VERCEL-LINK.vercel.app",
+  github: "https://github.com/deepa100-k/mern-notes-app",
+},
 ];
