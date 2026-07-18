@@ -120,7 +120,7 @@ Passionate Frontend Developer dedicated to building modern, responsive, and user
               <div className="absolute inset-0 rounded-full bg-violet-600 opacity-30 blur-3xl"></div>
 
               <img
-                src={profile}
+                src={photo}
                 alt="Deepa"
                 className="relative h-60 w-60 rounded-full border-4 border-violet-500/70 object-cover shadow-[0_0_50px_rgba(139,92,246,0.35)] transition duration-500 hover:scale-105 sm:h-72 sm:w-72 lg:h-96 lg:w-96"
               />
