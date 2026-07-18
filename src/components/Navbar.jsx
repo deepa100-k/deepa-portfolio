@@ -97,7 +97,7 @@ const Navbar = () => {
 
         {/* Resume Button */}
         <a
-          href={resume}
+          href={deepa}
           download="Deepa_Resume.pdf"
           className="hidden rounded-xl bg-violet-600 px-5 py-2.5 font-medium text-white transition-all duration-300 hover:scale-105 hover:bg-violet-500 md:inline-block"
         >
