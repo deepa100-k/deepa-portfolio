@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { HiOutlineMenuAlt3, HiOutlineX } from "react-icons/hi";
-import resume from "../assets/resume/Deepa_Resume.pdf";
+import photo from "../assets/photo.jpeg";
 
 const navLinks = [
   { name: "Home", href: "#home" },
