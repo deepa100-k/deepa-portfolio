@@ -1,4 +1,4 @@
-import profile from "../assets/images/profile.jpeg";
+import photo from "../assets/photo.jpeg";
 import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 import { motion } from "framer-motion";
 
